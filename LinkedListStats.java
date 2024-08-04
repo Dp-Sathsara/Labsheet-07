@@ -179,5 +179,6 @@ public class LinkedListStats {
         System.out.println("Mode: " + list.getMode());
         System.out.println("");
         System.out.println("Range: " + list.getRange());
+        System.out.println("");
     }
 }
