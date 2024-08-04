@@ -86,7 +86,6 @@ public class LinkedListStats {
             current = current.next;
         }
 
-        // Final check for the last set of values
         if (currentCount > maxCount) {
             mode = currentValue;
         }
